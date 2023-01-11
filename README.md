@@ -1,4 +1,3 @@
-# bootcamp
 Motoko Bootcamp
 
 Deploy Your First dApp on the Internet Computer (ICP) in 10 Minutes!
