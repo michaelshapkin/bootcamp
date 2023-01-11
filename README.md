@@ -1,0 +1,2 @@
+# bootcamp
+Motoko Bootcamp
